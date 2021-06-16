@@ -1,2 +1,0 @@
-# ab-tech
-Fb cloning
